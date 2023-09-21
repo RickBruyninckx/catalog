@@ -14574,9 +14574,9 @@
             "healthy_error": null,
             "home": "https://truecharts.org/charts/incubator/openproject",
             "location": "/home/runner/work/catalog/catalog/incubator/openproject",
-            "latest_version": "3.0.27",
+            "latest_version": "3.0.28",
             "latest_app_version": "12.4.5",
-            "latest_human_version": "12.4.5_3.0.27",
+            "latest_human_version": "12.4.5_3.0.28",
             "last_update": "2023-09-20 16:38:57",
             "name": "openproject",
             "recommended": false,
@@ -14591,7 +14591,7 @@
             "tags": [],
             "screenshots": [],
             "sources": [
-                "https://github.com/truecharts/charts/tree/master/charts/incubator/openproject",
+                "https://github.com/RickBruyninckx/charts/tree/master/charts/incubator/openproject",
                 "https://hub.docker.com/r/openproject/community",
                 "http://openproject.org"
             ],
